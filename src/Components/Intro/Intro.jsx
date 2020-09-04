@@ -18,9 +18,9 @@ export class Intro extends Component {
         const {draw} = this.state
         return(
             <div className={`intro${draw ? " draw" : ""}`}>
-                <h5>Trunc JS</h5>
+                <h5>inkmbt</h5>
                 <h1>
-                    A JavaScript plugin for truncating strings.
+                    JavaScript Library for Twitter-like number formatter.
                 </h1>
                 <button id="read">
                     <span>Get Started</span>

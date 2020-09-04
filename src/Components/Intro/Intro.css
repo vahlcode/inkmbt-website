@@ -36,7 +36,8 @@
 .App .intro>button {
     padding: 15px 30px;
     background: var(--gradient-color);
-    border: 2px solid transparent;
+    border-right: 2px solid transparent;
+    border-left: 2px solid transparent;
     font-size: 16px;
     position: relative;
     z-index: 1;
@@ -44,6 +45,7 @@
 
 .App .intro>button:hover {
     background: transparent;
+    border: none;
     border-left-width: 2px;
     border-left-style: solid;
     border-image: var(--gradient-color) 1 100%;
@@ -112,7 +114,9 @@
     .App .intro>button {
         padding: 15px 30px;
         background: var(--gradient-color);
-        border: 2px solid transparent;
+        border: none;
+        border-right: 2px solid transparent;
+        border-left: 2px solid transparent;
         font-size: 16px;
         position: relative;
         z-index: 1;
@@ -120,6 +124,8 @@
     
     .App .intro>button:hover {
         background: transparent;
+        border-right-width: 2px;
+        border-right-style: solid;
         border-left-width: 2px;
         border-left-style: solid;
         border-image: var(--gradient-color) 1 100%;

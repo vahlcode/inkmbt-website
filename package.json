@@ -1,6 +1,6 @@
 {
-  "name": "truncjs-landing",
-  "description": "A JavaScript plugin for truncating strings. Useful for making post excerpts.",
+  "name": "inkmbts-landing",
+  "description": "Format numbers in Twitter like formats, thousands in K, millions in M and Trillions in T.",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
