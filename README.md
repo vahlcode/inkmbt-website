@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Read-Count-Website
 =======
 # uniquechars-website
@@ -8,3 +9,6 @@ Generate random strings and numbers from from strings or group of numbers.
 =======
 # truncjs-website
 >>>>>>> fdc3332e48f6d5de0102160b37e50b0af98e9945
+=======
+# inkmbt-website
+>>>>>>> 0e675da4d31bdd92acfb688567dadc96c558f477
